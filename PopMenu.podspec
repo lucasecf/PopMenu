@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/lucasecf/PopMenu"
   s.license      = "MIT"
   s.authors      = { "xhzengAIB" => "xhzengAIB@gmail.com" }
-  s.source       = { :git => "https://github.com/xhzengAIB/PopMenu.git", :tag => "2.4" }
+  s.source       = { :git => "https://github.com/lucasecf/PopMenu.git" }
   s.frameworks   = 'Foundation', 'CoreGraphics', 'UIKit'
   s.platform     = :ios, '7.0'
   s.source_files = 'PopMenu/*.{h,m}'
